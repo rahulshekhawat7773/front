@@ -57,9 +57,7 @@ function Signup() {
           Create Account
         </h2>
 
-        <p className="text-center text-gray-500 mb-6">
-          Sign up to get started
-        </p>
+       
 
 
         <form onSubmit={handleSubmit} className="space-y-5">

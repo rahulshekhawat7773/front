@@ -124,9 +124,7 @@ function Dashboard() {
               Dashboard
             </h1>
 
-            <p className="text-gray-500">
-              Manage your users
-            </p>
+          
 
           </div>
 

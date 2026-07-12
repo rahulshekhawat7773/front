@@ -63,12 +63,10 @@ if (role?.toLowerCase() == "admin") {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600 px-4">
       <div className="bg-white w-full max-w-md p-8 rounded-2xl shadow-2xl">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-2">
-          Welcome Back
+          login to your account
         </h2>
 
-        <p className="text-center text-gray-500 mb-6">
-          Login to your account
-        </p>
+       
 
         <form onSubmit={handleSubmit} className="space-y-5">
           <input
